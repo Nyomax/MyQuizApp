@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">MyQuizApp</string>
+    <string name="QuestionHeader">Welcome to my Android Beginner Quiz App,Kindly attempt the questions below!</string>
+    <string name="Question1">1. Making your App appeal to other human language in Android is Known as:</string>
+    <string name="Question2">2. A theme in Android can be applied to (a/an):</string>
+    <string name="Question3">3. URI in the data section of an intent stands for:</string>
+    <string name="Question4_Header">4.</string>
+    <string name="Question4">   is a variable used in Java that when set never changes</string>
+    <string name="imputAnswer_text"> type in your answer</string>
+    <string name="Question5">5. Java objects hold state information which is made of:</string>
+    <string name="Question6">6. When an application is compiling; what is the android file that generates the (R class) in Java that contain Resource ID for all the resources in the res/directory</string>
+    <string name="Question7">7. An Android App is made up of two components namely:</string>
+    <string name="Question8">8. The logic of an Android App is handled by:</string>
+    <string name="Question9">9. The following are Key words in Java:</string>
+    <string name="Question10">10. string.xml is found in the values folder in our \'res' directory </string>
+    <string name="SubmitButton_text">Submit</string>
+    <string name="QuizSummaryButton_text">quizSummary</string>
+    <string name="RadioButton5A">text editors</string>
+    <string name="RadioButton5B">constructors</string>
+    <string name="RadioButton5C">fills</string>
+    <string name="RadioButton5D">fields</string>
+    <string name="RadioButton6A">.jdk</string>
+    <string name="RadioButton6B">.adb</string>
+    <string name="RadioButton6C">.aapt</string>
+    <string name="RadioButton6D">.r/class</string>
+    <string name="CheckBox7A">resources</string>
+    <string name="CheckBox7B">Java code</string>
+    <string name="CheckBox7C">Debug selection</string>
+    <string name="CheckBox7D">repository</string>
+    <string name="RadioButton8A">xml</string>
+    <string name="RadioButton8B">Java code</string>
+    <string name="RadioButton8C">gradle script</string>
+    <string name="RadioButton8D">resources</string>
+    <string name="CheckBox9A">keyword</string>
+    <string name="CheckBox9B">argument</string>
+    <string name="CheckBox9C">return</string>
+    <string name="CheckBox9D">string</string>
+    <string name="RadioButton10A">True</string>
+    <string name="RadioButton10B">False</string>
+
+</resources>
